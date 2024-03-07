@@ -1,7 +1,9 @@
 // 1. How to declare a variable using let and const
 
+// const means, that is fixed . you dont want to change that later
 const fatherName = 'Alexender'
 
+// when you using let, that means you have need to change this things maybe or not
 let season = 'rainy'
 season = 'winter'
 

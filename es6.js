@@ -8,7 +8,7 @@ const student = {
 }
 
 
-// 1. Template string
+// 1. Template string - ${}
 
 const about = `My name is ${student.name} & my age is ${student.age}. My birthdate is ${numbers[0]}th July. I have learned a lot of programming language. Currently I'm Learing ${student.learned[4]}`
 console.log(about)
